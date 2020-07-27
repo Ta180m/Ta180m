@@ -1,7 +1,10 @@
 <div align="center">
+	<!--
 	<p>
 		<img src="https://raw.githubusercontent.com/Ta180m/Ta180m/master/header.svg" width="800" height="400">
 	</p>
+	-->
+	
 	<p>
 		<img src="https://github-readme-stats.vercel.app/api?username=Ta180m&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" >
 	</p>
@@ -9,7 +12,7 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Ta180m" alt="Profile views" />
-</p>
+</p>-
 
 <!--
 **Ta180m/Ta180m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
