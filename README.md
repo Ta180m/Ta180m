@@ -4,6 +4,9 @@
 	</p>
 </div>
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=Ta180m&show_icons=true&hide_border=true)
+
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Ta180m" alt="Profile views" />
 </p>
