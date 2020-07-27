@@ -4,8 +4,9 @@
 	</p>
 </div>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=Ta180m&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
+<div align="center">
+	![My github stats](https://github-readme-stats.vercel.app/api?username=Ta180m&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+</div>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Ta180m" alt="Profile views" />
