@@ -1,4 +1,12 @@
-### Hi there 👋
+<div align="center">
+	<p>
+		<img src="https://raw.githubusercontent.com/Ta180m/Ta180m/master/header.svg" width="800" height="400">
+	</p>
+</div>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ta180m" alt="Profile views" />
+</p>
 
 <!--
 **Ta180m/Ta180m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
