@@ -2,10 +2,9 @@
 	<p>
 		<img src="https://raw.githubusercontent.com/Ta180m/Ta180m/master/header.svg" width="800" height="400">
 	</p>
-</div>
-
-<div align="center">
-	![My github stats](https://github-readme-stats.vercel.app/api?username=Ta180m&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+	<p>
+		<img src="https://github-readme-stats.vercel.app/api?username=Ta180m&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" >
+	</p>
 </div>
 
 <p align="left">
