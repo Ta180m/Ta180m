@@ -1,30 +1,37 @@
-<!--        int i;f(int x){putchar(((29-2*x)*x-91)*x/2        -->
-<!--        +97);}main(int c,char**v){printf(v[1]);for        -->
-<!--        (;i<4;++i)f(--v[2][i]%16/4),f(v[2][i]%4);}        -->
+<!--      int i;f(int x){putchar(((29-2*x)*x-91)*x/2      -->
+<!--      +97);}main(int c,char**v){printf(v[1]);for      -->
+<!--      (;i<4;++i)f(--v[2][i]%16/4),f(v[2][i]%4);}      -->
 
 
-<a href="https://github.com/Ta180m/Ta180m">
+<div align="center">
+	<p>
+		<img src="https://github-readme-stats.vercel.app/api?username=Ta180m&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true" >
+	</p>
+</div>
+
+
+<!--<a href="https://github.com/Ta180m/Ta180m">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ta180m&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/Ta180m/Ta180m">
+</a>-->
+<!--<a href="https://github.com/Ta180m/Ta180m">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ta180m&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=GLSL&layout=compact" />
-</a>
+</a>-->
 
 
-<br> <!--          not exp log srand xor s qq qx xor          -->
-     <!--          s x x length uc ord and print chr          -->
-<br> <!--          ord for qw q join use sub tied qx          -->
-     <!--          xor eval xor print qq q q xor int          -->
-<br> <!--          eval lc q m cos and print chr ord          -->
-     <!--          for qw y abs ne open tied hex exp          -->
-<br> <!--          ref y m xor scalar srand print qq          -->
-     <!--          q q xor int eval lc qq y sqrt cos          -->
-<br> <!--          and print chr ord for qw x printf          -->
-     <!--          each return local x y or print qq          -->
-<br> <!--          s s and eval q s undef or oct xor          -->
-     <!--          time xor ref print chr int ord lc          -->
-<br> <!--          foreach qw y hex alarm chdir kill          -->
-     <!--          exec return y s gt sin sort split          -->
+<!--          not exp log srand xor s qq qx xor          -->
+<!--          s x x length uc ord and print chr          -->
+<!--          ord for qw q join use sub tied qx          -->
+<!--          xor eval xor print qq q q xor int          -->
+<!--          eval lc q m cos and print chr ord          -->
+<!--          for qw y abs ne open tied hex exp          -->
+<!--          ref y m xor scalar srand print qq          -->
+<!--          q q xor int eval lc qq y sqrt cos          -->
+<!--          and print chr ord for qw x printf          -->
+<!--          each return local x y or print qq          -->
+<!--          s s and eval q s undef or oct xor          -->
+<!--          time xor ref print chr int ord lc          -->
+<!--          foreach qw y hex alarm chdir kill          -->
+<!--          exec return y s gt sin sort split          -->
 
 
 <!--<div align="center">
