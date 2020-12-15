@@ -2,12 +2,14 @@
 <!--      +97);}main(int c,char**v){printf(v[1]);for      -->
 <!--      (;i<4;++i)f(--v[2][i]%16/4),f(v[2][i]%4);}      -->
 
+![GitHub metrics](https://metrics.lecoq.io/Ta180m?template=terminal&gists=1&followup=1)
 
-<div align="center">
+
+<!--<div align="center">
 	<p>
 		<img src="https://github-readme-stats.vercel.app/api?username=Ta180m&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true" >
 	</p>
-</div>
+</div>-->
 
 
 <!--<a href="https://github.com/Ta180m/Ta180m">
