@@ -2,8 +2,7 @@
 <!--      +97);}main(int c,char**v){printf(v[1]);for      -->
 <!--      (;i<4;++i)f(--v[2][i]%16/4),f(v[2][i]%4);}      -->
 
-![GitHub metrics](https://metrics.lecoq.io/Ta180m?template=terminal&gists=1&followup=1)
-
+<div style="text-align:center"><img src="https://metrics.lecoq.io/Ta180m?template=terminal&gists=1&followup=1" /></div>
 
 <!--<div align="center">
 	<p>
