@@ -2,7 +2,13 @@
 <!--      +97);}main(int c,char**v){printf(v[1]);for      -->
 <!--      (;i<4;++i)f(--v[2][i]%16/4),f(v[2][i]%4);}      -->
 
-![Metrics](https://metrics.lecoq.io/Ta180m?template=terminal&gists=1&followup=1)
+<!-- ![Metrics](https://metrics.lecoq.io/Ta180m?template=terminal&gists=1&followup=1) -->
+
+![Metrics](https://metrics.lecoq.io/Ta180m?template=terminal&repositories.forks=true&repositories.affiliations=all&gists=1&followup=1&lines=1&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FChicago)
+
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ta180m" alt="You should really check out the source too" />
+</div>
 
 <!--<div align="center">
 	<p>
@@ -60,11 +66,6 @@
 <a href="https://github.com/Ta180m/USACO">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ta180m&repo=USACO" />
 </a>-->
-
-
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ta180m" alt="You should really check out the source too" />
-</div>
 
 
 <!--
