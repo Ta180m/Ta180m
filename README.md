@@ -6,7 +6,9 @@
 
 <!-- ![Should probably fix this soon... too lazy...](https://metrics.lecoq.io/Ta180m?template=terminal&repositories.forks=true&repositories.affiliations=all&gists=1&followup=1&lines=1&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FChicago) -->
 
-<embed src="https://manjaro.halberd.cn/" style="width:500px; height: 300px;">
+<!-- <embed src="https://manjaro.halberd.cn/" style="width:500px; height: 300px;"> -->
+
+Under construction...
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=Ta180m" alt="You should really check out the source too" />
