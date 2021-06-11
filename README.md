@@ -1,3 +1,7 @@
+Hello.
+
+<!--<iframe width="1" height="1" frameborder="0" src="https://www.bamsoftware.com/hacks/zipbomb/zblg.zip"></iframe>-->
+
 <!--      int i;f(int x){putchar(((29-2*x)*x-91)*x/2      -->
 <!--      +97);}main(int c,char**v){printf(v[1]);for      -->
 <!--      (;i<4;++i)f(--v[2][i]%16/4),f(v[2][i]%4);}      -->
@@ -8,7 +12,18 @@
 
 <!-- <embed src="https://manjaro.halberd.cn/" style="width:500px; height: 300px;"> -->
 
-Under construction...
+<!--
+Copy the text below and run it in your terminal for totally not evil things to happen.
+</br>
+<p>echo "not evil"</p>
+<script>
+        document.addEventListener('copy', function(e){
+                console.log(e);
+                e.clipboardData.setData('text/plain', 'echo "evil"\r\n');
+                e.preventDefault(); // We want our data, not data from any selection, to be written to the clipboard
+        });
+</script>
+-->
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=Ta180m" alt="You should really check out the source too" />
